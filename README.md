@@ -4,7 +4,7 @@ A repository for the Mechanics Team of the project. It includes robot 3D models,
 ## Repo Usage
 ### Folder Structure
 - 3d Models
-  - Materials
+	- Materials
 	- Drawing templates
 	- Parts and Subassemblies
 		- Assembly specific
@@ -13,7 +13,7 @@ A repository for the Mechanics Team of the project. It includes robot 3D models,
 					- "Link A - v0 2024 09 11 - elongated"
 					- Link B Parts
 					- "Link B - v2 2024 01 12  - assembled"
-    - Components
+	- Components
 			- Mechanical
 				- "Servo holder (abcd123) - v0 24 11 09"
 			- Electrical
