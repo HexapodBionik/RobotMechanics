@@ -1,0 +1,34 @@
+<FONT size=3.5>NR ELEMENTU,<FONT size=3.5>NUMER CZÊŒCI,<FONT size=3.5>OPIS,<FONT size=3.5>ILOŒÆ
+1,Whole_leg_v2_assembly_to_simulation_version,,1
+2,  Servo_bracket_body_part,,3
+3,  Servo_MG996R_assembly,,3
+4,    Servo_MG996R_base,,1
+5,    Servo_MG996R_axis,,1
+6,  Servo_bracket_shortened_link_part,,2
+7,  Servo_bracket_bronze_bushing,,3
+8,  Round_servo_horn,,3
+9,  Servo_bracket_full_length_link_part,,1
+10,  LinkB_part1,,1
+11,  Toucher_assembly,,1
+12,    Toucher_part1,,1
+13,    Toucher_part2,,1
+14,    Toucher_part3,,1
+15,    Toucher_rubber_sphere,,1
+16,  LinkC_part1,,1
+17,  LinkC_part2,,1
+18,  LinkB_part2,,1
+19,Washer_M3x7_inox,,79
+20,ISO 7380 - M3 x 6 - 6N,,3
+21,ISO 4762 M3 x 6 - 6N,,6
+22,ISO 4762 M3 x 8 - 8N,,13
+23,ISO 10511-M3-N,,3
+24,ISO 4762 M3 x 12 - 12N,,6
+25,ISO 4762 M3 x 10 - 10N,,12
+26,ISO - 4032 - M3 - D - N,,30
+27,ISO 4762 M3 x 16 - 16N,,4
+28,6x3_magnet_mounting,,3
+29,ISO 7380 - M3 x 8 - 8N,,6
+30,Magnet_6x3,,3
+31,Encoder_PCB,,3
+32,LinkB_encoders_mounting,,1
+33,JointA_encoder_mounting,,1
