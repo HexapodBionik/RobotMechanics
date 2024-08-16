@@ -41,4 +41,11 @@ A repository for the Mechanics Team of the project. It includes robot 3D models,
 	- "Link A - v0 2024 09 11 - elongated".
 	- "Servo 130kg (abc36A51) - v1 2025 11 09 - weight accurate to model bought "
 
+**Small bought parts** - "Name (part number if bought)" - Part models that are unlikely to change, for example a specific screw model or a magnet with pre defined dimensions, can be made without a Version Number.
 
+### General Usage Notes
+- Please add organising folders if needed, the folder tree shows only where various files should exist and not how to exactly manage them in those places
+
+- If there are any questions or a file can have various name structures please use one that gives more information, not less. It is better to add a version number and not need it later that to add this information later on.
+
+- If you have any suggestions or improvments to the File Managment System please write about it or get in touch. This system should evolve with the projects. If something is bothering you with the structure or naming scheme please **raise an issue or contact NimbleStatic directly**.
