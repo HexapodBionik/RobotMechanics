@@ -1,6 +1,13 @@
 # RobotMechanics
 A repository for the Mechanics Team of the project. It includes robot 3D models, simulations and documentation of mechanical components.
 
+
+## Solidworks file problems
+If there are any problems with assembly file not seeing the part files while opening click on **find part** and then file the folder in which the part file should be. Solidworks will automatically fix the part reference.
+
+## Toolbox File Imports
+Please when using the solidworks base files save them to the repo so that everyone using the project has all the parts necessary to open all the files.
+
 ## GIT - LFS
 ### To add a file to git LFS (Large File Storage):
 	1. `git lfs track "*.<rozszerzenie pliku>"` np. `git lfs track "*.jpeg"`
