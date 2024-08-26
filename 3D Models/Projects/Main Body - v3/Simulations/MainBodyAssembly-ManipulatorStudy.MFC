@@ -1,0 +1,16 @@
+[StartTime]
+MainBodyAssembly-ManipulatorStudy.MFC=20s
+[SolverState]
+MainBodyAssembly-ManipulatorStudy.MFC=2
+[MainFrame]
+MainBodyAssembly-ManipulatorStudy.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEAGAAAAAHGCAAAAAMGHAAAAAKDDAAAAA
+[ShowMin]
+MainBodyAssembly-ManipulatorStudy.MFC=No
+[SolverType]
+MainBodyAssembly-ManipulatorStudy.MFC=Linear Analysis
+[StudyType]
+MainBodyAssembly-ManipulatorStudy.MFC=0
+[StudyName]
+MainBodyAssembly-ManipulatorStudy.MFC=ManipulatorStudy
+[Solver]
+MainBodyAssembly-ManipulatorStudy.MFC=Iterative

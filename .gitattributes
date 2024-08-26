@@ -2,3 +2,4 @@
 *.prt filter=lfs diff=lfs merge=lfs -text
 *.sldasm filter=lfs diff=lfs merge=lfs -text
 *.asm filter=lfs diff=lfs merge=lfs -text
+*.CWR filter=lfs diff=lfs merge=lfs -text
