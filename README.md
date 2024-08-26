@@ -1,6 +1,17 @@
 # RobotMechanics
 A repository for the Mechanics Team of the project. It includes robot 3D models, simulations and documentation of mechanical components.
 
+## GIT - LFS
+### To add a file to git LFS (Large File Storage):
+	1. `git lfs track "*.<rozszerzenie pliku>"` np. `git lfs track "*.jpeg"`
+	2. `git lfs migrate`
+	3. `git push`
+	
+	
+### To block and unlock files from simultaneous modification:
+**Blocking modifiaction** - `git lfs lock <file-path>`
+**Unlocking** -  `git lfs unlock <file-path>`
+
 ## Repo Usage
 ### Folder Structure
 - 3d Models
