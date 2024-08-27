@@ -18,7 +18,9 @@ Please when using the solidworks base files save them to the repo so that everyo
 	
 ### To block and unlock files from simultaneous modification:
 **Blocking modifiaction** - `git lfs lock <file-path>`
+
 **Unlocking** -  `git lfs unlock <file-path>`
+
 **Check which files are locked** - `git lfs locks`
 
 ## Repo Usage
