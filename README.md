@@ -36,11 +36,11 @@ Please when using the solidworks base files save them to the repo so that everyo
 					- Link B Parts
 					- "Link B - v2 2024 01 12  - assembled"
 	- Components
-			- Mechanical
-				- "Servo holder (abcd123) - v0 24 11 09"
-			- Electrical
-			- Fasteners
-				- "Screw 10mm x 2mm flat head - 24 09 01"
+		- Mechanical
+			- "Servo holder (abcd123) - v0 24 11 09"
+		- Electrical
+		- Fasteners
+			- "Screw 10mm x 2mm flat head - 24 09 01"
 	- Projects
 		- Project Archive (here we throw unused old projects that are obsolete)
 		- PROJECT TEMPLATE (For copying)
