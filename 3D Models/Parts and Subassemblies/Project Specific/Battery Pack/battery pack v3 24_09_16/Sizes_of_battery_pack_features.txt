@@ -1,0 +1,13 @@
+﻿"cell_height"= 21.5mm
+"cell_length"= 70.5mm
+"cell_holding_lip"= 3mm'how big is the lip holding the cell in place
+"strip_small_width"= 5.5mm
+"strip_big_width"= 12.5mm
+"cell_min_offset"= 25mm
+"part_height"= 53mm
+"part_small_wall"= 2mm
+"part_length"= 170mm
+"part_holding_width"= 13.5mm'the width of the extrusion that holds the cells
+"screw_nut_outer"= 6mm
+"screw_pocket_width"= 8mm
+"screw_standoff_size"=11mm
