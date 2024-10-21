@@ -3,3 +3,5 @@
 *.sldasm filter=lfs diff=lfs merge=lfs -text
 *.asm filter=lfs diff=lfs merge=lfs -text
 *.CWR filter=lfs diff=lfs merge=lfs -text
+*.SLDASM filter=lfs diff=lfs merge=lfs -text
+*.SLDPRT filter=lfs diff=lfs merge=lfs -text
