@@ -10,3 +10,7 @@ Templates/ filter=lfs diff=lfs merge=lfs -text
 3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Mechanical/Ceowniki/Ceownik_60_20_2_5.SLDDRW filter=lfs diff=lfs merge=lfs -text
 3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Mechanical/Ceowniki/Ceownik_60_40_80_centralny.SLDDRW filter=lfs diff=lfs merge=lfs -text
 3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Mechanical/Ceowniki/Ceownik_60_40_80_centralny.SLDPRT filter=lfs diff=lfs merge=lfs -text
+3D[[:space:]]Models/ filter=lfs diff=lfs merge=lfs -text
+3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Project[[:space:]]Specific/Battery[[:space:]]Pack/Ceownik_battery_60_20_150_v2.SLDPRT filter=lfs diff=lfs merge=lfs -text
+3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Project[[:space:]]Specific/Battery[[:space:]]Pack/Ceownik_battery_60_20_150_v2.SLDDRW filter=lfs diff=lfs merge=lfs -text
+3D[[:space:]]Models/Parts[[:space:]]and[[:space:]]Subassemblies/Project[[:space:]]Specific/Battery[[:space:]]Pack/Ceownik_battery_60_20_150_v3/SLDPRT filter=lfs diff=lfs merge=lfs -text
